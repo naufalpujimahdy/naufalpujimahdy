@@ -1,8 +1,8 @@
 ### Selalu Tersenyum 😊
 
-[![Instagram](https://img.shields.io/badge/Instagram-ForTheBadgeStyle-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naufalpujimahdy/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ForTheBadgeStyle-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufalpujimahdy/)
-[![Gmail](https://img.shields.io/badge/Gmail-ForTheBadgeStyle-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufalpm230800@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-DefaultStyle-%23E4405F.svg?&style=default&logo=instagram&logoColor=white)](https://www.instagram.com/naufalpujimahdy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DefaultStyle-%230077B5.svg?&style=default&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufalpujimahdy/)
+[![Gmail](https://img.shields.io/badge/Gmail-DefaultStyle-%23D14836.svg?&style=default&logo=gmail&logoColor=white)](mailto:naufalpm230800@gmail.com)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=naufalpujimahdy)](https://git.io/streak-stats)
