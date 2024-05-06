@@ -4,6 +4,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=default&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufalpujimahdy/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=default&logo=gmail&logoColor=white)](mailto:naufalpm230800@gmail.com)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=naufalpujimahdy)](https://git.io/streak-stats)
+![Your github stats](https://github-readme-stats.vercel.app/api?username=naufalpujimahdy&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalpujimahdy&layout=compact&langs_count=10)
