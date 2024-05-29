@@ -6,3 +6,5 @@
 
 ![Your github stats](https://github-readme-stats.vercel.app/api?username=naufalpujimahdy&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalpujimahdy&layout=compact&langs_count=10)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=naufalpujimahdy)
