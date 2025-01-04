@@ -9,7 +9,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Naufal%20Puji%20Mahdy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufalpujimahdy/) 
 [![Mail Badge](https://img.shields.io/badge/-@naufalpujimahdy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/naufalpujimahdy) 
-[![Twitter Badge](https://img.shields.io/badge/-@naufalpujmahdy-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aulianzaa)](https://twitter.com/naufalpujmahdy) 
+[![Twitter Badge](https://img.shields.io/badge/-@naufalpujmahdy-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/naufalpujmahdy)](https://twitter.com/naufalpujmahdy) 
 [![Mail Badge](https://img.shields.io/badge/-naufalpm230800@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:naufalpm230800@gmail.com)
 [![](https://komarev.com/ghpvc/?username=naufalpujimahdy&color=blue&label=Profile%20Views)](https://github.com/naufalpujimahdy/naufalpujimahdy)
 [![](https://img.shields.io/github/followers/naufalpujimahdy?label=GitHub%20Followers)](https://github.com/naufalpujimahdy)
