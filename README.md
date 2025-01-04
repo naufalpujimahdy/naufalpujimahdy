@@ -28,8 +28,7 @@
 
 <span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalpujimahdy&layout=compact&hide=php&langs_count=10" /></span>
 <span><a href="https://github.com/naufalpujimahdy?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=naufalpujimahdy&show_icons=true&count_private=true&hide=contribs" /></a></span>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naufalpujimahdy&hide_border=true&locale=id&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naufalpujimahdy&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 Note: Replace the following sections with your information:
 - [Your portfolio website]
