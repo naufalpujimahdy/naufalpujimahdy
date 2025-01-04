@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Naufal Puji Mahdy
+<h1 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />&nbsp;Hi, I'm Ryan</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naufalpujimahdy/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufalpujimahdy/)
