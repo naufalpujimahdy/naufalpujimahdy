@@ -28,7 +28,7 @@
 
 <span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalpujimahdy&layout=compact&hide=php&langs_count=10" /></span>
 <span><a href="https://github.com/naufalpujimahdy?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=naufalpujimahdy&show_icons=true&count_private=true&hide=contribs" /></a></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalpujimahdy" height="150" alt="Stat Streak" /></span>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naufalpujimahdy&hide_border=true&locale=id&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 Note: Replace the following sections with your information:
