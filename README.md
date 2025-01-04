@@ -21,7 +21,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naufalpujimahdy&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naufalpujimahdy&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
@@ -29,8 +29,9 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalpujimahdy&layout=compact&langs_count=8&theme=vue-dark&token=YOUR_PERSONAL_ACCESS_TOKEN"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalpujimahdy&layout=compact&langs_count=8&theme=vue-dark"/>
 </p>
+
 
 
 ## 📫 Connect with Me
