@@ -24,8 +24,7 @@
 
 ## 📊 GitHub Stats
 
-<span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalpujimahdy&layout=compact&hide=php&langs_count=6" /></span>
-<span><a href="https://wakatime.com/@naufalpujimahdy"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=naufalpujimahdy&layout=compact&langs_count=6" /></a></span>
+<span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalpujimahdy&layout=compact&hide=php&langs_count=10" /></span>
 <span><a href="https://github.com/naufalpujimahdy?tab=repositories&q=&type=&language=&sort=stargazers"><img height="150" src="https://github-readme-stats.vercel.app/api?username=naufalpujimahdy&show_icons=true&count_private=true&hide=contribs" /></a></span>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalpujimahdy" height="150" alt="Stat Streak" /></span>
 ---
