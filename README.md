@@ -5,11 +5,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufalpm230800@gmail.com)
 
 ## About Me
-🎓 [Your education/background]  
-💻 [Your current role/interests]  
-🌱 Currently learning [technologies/skills]  
-🔭 Working on [current projects]  
-⚡ Fun fact: [interesting fact about yourself]
+🎓 S1 Informatika - Universitas Teknologi Yogyakarta  
+💻 Full-Stack Web Developer  
+🔭 Working on PT Loh Jinawi Teknologi  
+⚡ Fun fact: Suka senyum
 
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
