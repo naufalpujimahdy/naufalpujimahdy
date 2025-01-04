@@ -11,7 +11,7 @@
 ⚡ Fun fact: Suka senyum
 
 ## 🛠 Tech Stack
-![Laravel](https://img.shields.io/badge/-Laravel-F7DF1E?style=flat-square&logo=laravel&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
