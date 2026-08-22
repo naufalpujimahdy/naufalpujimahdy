@@ -2,7 +2,7 @@
 
 🎓 **S1 Informatika** - Universitas Teknologi Yogyakarta  
 💻 **Full-Stack Web Developer**  
-🔭 **Working on** PT Lawencon Internasional  
+🔭 **Working on** PT SAGA HIKARI
 ⚡ **Fun fact:** Suka senyum
 
 ####  Let's get in touch! Feel free to DM me for discussion!
